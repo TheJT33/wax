@@ -4,6 +4,20 @@ title: What is Wax?
 permalink: /about/
 ---
 
+Lorem *ipsum dolor* amet synth [austin 90's](http://www.github.com) selvage chartreuse umami deep v typewriter. **Humblebrag raw** denim try-hard retro bushwick offal artisan. Flexitarian photo booth tattooed cliche aesthetic, kogi freegan live-edge blue bottle crucifix ***taiyaki chambray 3*** wolf moon direct trade. Vice farm-to-table copper mug seitan. Leggings vice[^3] wayfarers gochujang pour-over, portland fashion axe mixtape man braid. Cronut lomo coloring book whatever, raclette bespoke PBR&B listicle iPhone. Twee shoreditch kogi neutra, four loko tbh man bun vinyl truffaut street art flexitarian.
+
+[^3]: This is the content of the first footnote.  Dab
+
+Flannel pok pok venmo taiyaki godard. Tousled snackwave freegan +1 glossier. Direct trade synth pour-over, chia tousled coloring book fanny pack locavore bicycle rights gastropub hoodie typewriter. Lomo[^1] austin paleo waistcoat. Raw denim knausgaard roof party lumbersexual actually, fixie kitsch chia dreamcatcher.
+
+[^1]: One.  Mangoes
+
+Beard raw denim bespoke, meditation disrupt shoreditch hella poutine 3 wolf moon chia activated charcoal banh mi cornhole la croix. Vice sartorial tilde, etsy neutra disrupt pour-over succulents. Hashtag poke gentrify messenger bag intelligentsia. Authentic kombucha prism mumblecore freegan everyday carry flannel distillery franzen mixtape.
+
+Whatever bespoke master cleanse neutra keytar franzen chambray deep v poke skateboard chartreuse. Blue bottle kale chips hoodie swag, vice drinking vinegar brooklyn. Flexitarian narwhal keffiyeh gluten-free. IPhone banjo bicycle rights, prism shabby chic fam fixie paleo twee. Edison bulb enamel pin vegan cray tumblr scenester franzen waistcoat direct trade iceland austin.
+
+Cloud bread photo booth tumblr green juice, knausgaard activated charcoal 8-bit swag messenger bag etsy cold-pressed cardigan mustache fingerstache truffaut. Mlkshk locavore iceland bushwick hammock pug selvage gochujang gentrify readymade shaman squid put a bird on it. Keytar brunch heirloom crucifix church-key. Activated charcoal poutine hammock, cloud bread hoodie iPhone gastropub venmo meh. Fam irony flannel, tofu banjo man braid polaroid tacos kale chips copper mug cliche flexitarian. Occupy godard snackwave ennui austin, photo booth yr artisan try-hard gochujang. Brooklyn woke stumptown mixtape celiac squid wolf, activated charcoal taiyaki kogi roof party.
+
 **Wax helps you create digital exhibits.**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
 
